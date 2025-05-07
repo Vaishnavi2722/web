@@ -1,0 +1,27 @@
+#all {
+    margin: 10%;
+    border: 2px solid black;
+    padding: 10px;
+    background-color: rgba(83, 158, 171, 0.332)
+}
+
+#abc {
+    color: blueviolet;
+
+
+    
+}
+.h1 {
+    color: blue;
+}
+
+body {
+
+    background-color: ;
+
+}
+
+#name_box {
+    text-align: center;
+    color: rgb(20, 34, 226);
+}

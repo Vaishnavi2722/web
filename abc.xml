@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css" ?>
+<student>
+<heading>Student Information</heading>
+    <TYA>
+        <rollno>1</rollno>
+        <name>Prerna</name>
+        <address>Sangli</address>
+        <marks>80</marks>
+    </TYA>
+
+    <TYA>
+        <rollno>2</rollno>
+        <name>Vaishnavi</name>
+        <address>Nakaj</address>
+        <marks>100</marks>
+    </TYA>
+
+    <TYA>
+        <rollno>3</rollno>
+        <name>Asma</name>
+        <address>satara</address>
+        <marks>90</marks>
+    </TYA>
+    <TYA>
+        <rollno>4</rollno>
+        <name>Aditi</name>
+        <address>kolhapur</address>
+        <marks>90</marks>
+    </TYA>
+    <TYA>
+        <rollno>5</rollno>
+        <name>Shweta</name>
+        <address>satara</address>
+        <marks>90</marks>
+    </TYA>
+
+    
+</student>
